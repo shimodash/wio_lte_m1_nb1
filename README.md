@@ -7,9 +7,10 @@
 * ubuntu 20.4(linuxでも動きました。）
 * iftttサービス
 
-## 開発フォルダ
+## 開発フォルダ又はファイル
 * wio_pir_sensor
 * ifttt-webhook-soracom(ステータスをLED表示)
+* Wio_cell_lib_for_Arduino.zip(オリジナルより修正)
 
 ## 参考ページ
 * https://seeedjp.github.io/Wiki/Wio_cell_lib_for_Arduino/home-ja.html
