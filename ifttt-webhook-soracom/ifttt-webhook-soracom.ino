@@ -92,6 +92,7 @@ if(SENSORState==true){
   err:
   SerialUSB.println("### Wait.");
   delay(INTERVAL);
+  Wio.LedSetRGB(0, 10, 0);
 }else{
   Wio.LedSetRGB(0, 10, 0);
 
